@@ -1,8 +1,8 @@
 import React from "react";
 import { Route, Switch } from 'react-router-dom';
-import AllMeetupsPage from "./pages/AllMeetups";
-import FavoritesPage from "./pages/Favorites";
-import NewMeetupPages from "./pages/NewMeetup";
+import AllMeetupsPage from "./pages/AllMeetupsPage";
+import FavoritesPage from "./pages/FavoritesPage";
+import NewMeetupPages from "./pages/NewMeetupPage";
 import Layout from "./components/Layout";
 
 function App() {
